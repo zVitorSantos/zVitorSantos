@@ -7,29 +7,31 @@
 
 ____________________________________________________________
 
-# Sobre mim (PT-BR) - [About me (ENG)](https://github.com/zVitorSantos/zVitorSantos/README_ENG.md)
+# About me (ENG) - [Sobre mim (PT-BR)](https://github.com/zVitorSantos/zVitorSantos/README.md)
 
-Me chamo Vitor dos Santos, brasileiro, tenho 19 anos e grande interesse por backend. Estou sempre buscando melhorar minhas habilidades.
+My name is Vitor dos Santos, I am Brazilian, 19 years old, and have a great interest in backend development. I am always looking to improve my skills.
 
-### Linguagens de Programação
+## Technologies and Tools
+
+### Programming Languages
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img align="center" alt="Go" src="https://img.shields.io/badge/Go-0FAAFF?logo=Go&logoColor=white"/>
 </div>
 
-### Sistema Operacional
+### Operating System
 <div style="display: inline_block"><br/>
   <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"/>
 </div>
 
-### Ferramentas
+### Tools
 <div style="display: inline_block"><br/>
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
   <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"/>
 </div>
 
-### Banco de Dados
+### Database
 <div style="display: inline_block"><br/>
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
 </div>
@@ -39,7 +41,7 @@ Me chamo Vitor dos Santos, brasileiro, tenho 19 anos e grande interesse por back
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
 </div>
 
-### Tecnologias que tenho interesse em aprender
+### Technologies I'm interested in learning
 <div style="display: inline_block"><br/>
   <img align="center" alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
@@ -48,12 +50,10 @@ Me chamo Vitor dos Santos, brasileiro, tenho 19 anos e grande interesse por back
   <img align="center" alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white"/>
 </div>
 
-### Contate-me
+### Contact me
 <div style="display: inline_block"><br/>
   <a href="https://www.linkedin.com/in/Stumetin/">
     <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vitorsantos4736@gmail.com">
-    <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</div>
+    <img align="center" alt="Gmail" src="https
