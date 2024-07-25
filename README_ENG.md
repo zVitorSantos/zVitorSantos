@@ -11,8 +11,6 @@ ____________________________________________________________
 
 My name is Vitor dos Santos, I am Brazilian, 19 years old, and have a great interest in backend development. I am always looking to improve my skills.
 
-## Technologies and Tools
-
 ### Programming Languages
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
