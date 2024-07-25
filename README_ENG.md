@@ -7,7 +7,7 @@
 
 ____________________________________________________________
 
-# About me (ENG) - [Sobre mim (PT-BR)](https://github.com/zVitorSantos/zVitorSantos/README.md)
+# About me (ENG) - [Sobre mim (PT-BR)](https://github.com/zVitorSantos)
 
 My name is Vitor dos Santos, I am Brazilian, 19 years old, and have a great interest in backend development. I am always looking to improve my skills.
 
