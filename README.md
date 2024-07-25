@@ -7,7 +7,7 @@
 
 ____________________________________________________________
 
-# Sobre mim (PT-BR) - [About me (ENG)](https://github.com/zVitorSantos/zVitorSantos/blob/main/README_ENG.md)
+# Sobre mim (PT-BR) - [About me (EN-US)](https://github.com/zVitorSantos/zVitorSantos/blob/main/README_ENG.md)
 
 Me chamo Vitor dos Santos, brasileiro, tenho 19 anos e grande interesse por backend. Estou sempre buscando melhorar minhas habilidades.
 

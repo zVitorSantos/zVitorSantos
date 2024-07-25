@@ -7,7 +7,7 @@
 
 ____________________________________________________________
 
-# About me (ENG) - [Sobre mim (PT-BR)](https://github.com/zVitorSantos)
+# About me (EN-US) - [Sobre mim (PT-BR)](https://github.com/zVitorSantos)
 
 My name is Vitor dos Santos, I am Brazilian, 19 years old, and have a great interest in backend development. I am always looking to improve my skills.
 
@@ -56,4 +56,7 @@ My name is Vitor dos Santos, I am Brazilian, 19 years old, and have a great inte
     <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vitorsantos4736@gmail.com">
-    <img align="center" alt="Gmail" src="https
+    <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
